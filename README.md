@@ -10,3 +10,4 @@
 - [Drone Simulator in Three.js: Real-Time Control and Animation - YouTube](https://www.youtube.com/watch?v=_ykPOUOgNB8)
 - [Creating 3D droneshows for the real world - YouTube](https://www.youtube.com/watch?v=F2ccAyOsZkA)
 - [The New Drone Show Creator - YouTube](https://www.youtube.com/watch?v=V2-vaj0Yxlg)
+- https://www.cnblogs.com/qz85784989/p/21070216
